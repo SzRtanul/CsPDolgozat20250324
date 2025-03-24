@@ -1,0 +1,6 @@
+különböző tárgy: 7
+
+összes kredit: 25.0
+
+min kreditmatematika, 2
+max kreditirodalom, 5
